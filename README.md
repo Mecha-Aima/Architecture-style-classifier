@@ -8,6 +8,8 @@
 
 This project utilizes the Clarifai API to classify architecture styles based on image inputs. The classifier is trained to recognize three distinct styles: Modern, Victorian, and Romanesque.
 
+Visit the model at: https://clarifai.com/aiman-ameer-malik/architecture-identifier/
+
 **How it Works**
 ----------------
 
