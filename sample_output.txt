@@ -1,0 +1,20 @@
+This is what model_prediction.outputs[0].data looks like
+
+concepts {
+  id: "victorian"
+  name: "victorian"
+  value: 0.999999881
+  app_id: "architecture-identifier"
+}
+concepts {
+  id: "modern"
+  name: "modern"
+  value: 6.1746448e-08
+  app_id: "architecture-identifier"
+}
+concepts {
+  id: "romanesque"
+  name: "romanesque"
+  value: 6.27657128e-12
+  app_id: "architecture-identifier"
+}
